@@ -26,7 +26,7 @@ Ce projet met en pratique les bonnes pratiques du développement backend Java : 
 - 🛢 H2 Database (base embarquée)
 - 🧪 JUnit 5
 
-# Ce TP vous a permis de :
+# Ce TP permis de :
 - Créer un projet Maven avec Hibernate et H2
 - Configurer la génération automatique du schéma avec hibernate.hbm2ddl
 - Créer deux entités (Salle et Utilisateur) avec des validations
@@ -39,5 +39,4 @@ Regarder la démo ici :
 
 👉 https://docs.google.com/videos/d/1nneoPws7lst1hIwMY_GFemBjkppPezFMkymplXCyS7s/edit?usp=sharing
 
-La configuration est définie dans :
 
